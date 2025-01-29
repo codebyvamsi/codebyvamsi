@@ -1,6 +1,6 @@
 ## 🚀 Vamsi - Node.js Backend Developer
 
-👋 Hi, I'm Vamsi, a passionate Node.js backend developer, eager to build scalable and efficient web applications. My journey in the world of coding revolves around creating robust APIs, mastering databases, and ensuring seamless server-side logic.
+👋 Hi, I'm Vamsi, a dedicated Node.jsbackend developer with a keen interest in integrating cutting-edge AI technologies. My goal is to build scalable and efficient web applications while leveraging the latest advancements in AI to enhance functionality and user experience.
 
 ### 💼 Professional Skills
 - **Languages**: JavaScript, TypeScript
